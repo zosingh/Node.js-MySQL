@@ -1,0 +1,14 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "Bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/zosingh/Node.js-MySQL"
+  },
+  
+}
